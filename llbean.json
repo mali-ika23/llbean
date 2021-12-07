@@ -7,7 +7,7 @@
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"whichAds": 0,
+	"whichAds": 1,
 
 	"MoreApps": "h3116631",
 	"PrivacyPolicy": "https://sites.google.com/view/privacypolicyallinone/accueil",
@@ -25,9 +25,9 @@
 	"BUTTON_NAME_3": "ASIA",
 	"BUTTON_NAME_4": "Rest of the world",
 
-	"BUTTON_URL_1": "https://sites.google.com/view/privacypolicyallinone/accueil",
-	"BUTTON_URL_2": "https://sites.google.com/view/privacypolicyallinone/accueil",
-	"BUTTON_URL_3": "https://sites.google.com/view/privacypolicyallinone/accueil",
-	"BUTTON_URL_4": "https://sites.google.com/view/privacypolicyallinone/accueil"
+	"BUTTON_URL_1": "https://global.llbean.com",
+	"BUTTON_URL_2": "https://global.llbean.com",
+	"BUTTON_URL_3": "https://global.llbean.com",
+	"BUTTON_URL_4": "https://global.llbean.com"
 
 }
